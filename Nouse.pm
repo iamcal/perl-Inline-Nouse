@@ -1,6 +1,6 @@
 package Inline::Nouse;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 require Inline;
 require Inline::Interp;
@@ -74,8 +74,8 @@ Inline::Nouse - An Inline.pm interpreter for the Nouse language
 =head1 DESCRIPTION
 
 This module allows Nouse subs to be used directly within perl.
-For more usage information, see L<Inline::Interp>, on which this
-module is based.
+For more usage information, see L<Inline::Interp> and
+L<Language::Nouse>, on which this module is based.
 
 =head1 AUTHOR
 
@@ -84,7 +84,11 @@ Copyright (C) 2003, Cal Henderson <cal@iamcal.com>
 =head1 SEE ALSO
 
 L<Inline>
+
 L<Inline::Interp>
+
+L<Language::Nouse>
+
 L<http://www.geocities.com/qpliu/nouse/nouse.html>
 
 =cut
