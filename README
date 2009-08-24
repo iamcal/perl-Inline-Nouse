@@ -1,8 +1,8 @@
-Inline/Nouse.pm
-===============
+Inline::Nouse
+=============
 
 An Inline implementation of the Nouse language.
-( see http://www.geocities.com/qpliu/nouse/nouse.html )
+( see http://code.iamcal.com/docs/nouse.html )
 
 
 INSTALLATION
@@ -19,13 +19,12 @@ DEPENDENCIES
 
 This module requires these other modules and libraries:
 
-  Test::Simple
   Inline
   Inline::Interp
   Language::Nouse
+  Test::More
 
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2003 Cal Henderson, <cal@iamcal.com>
-
+Copyright (C) 2003-2009 Cal Henderson, <cal@iamcal.com>

@@ -89,6 +89,6 @@ L<Inline::Interp>
 
 L<Language::Nouse>
 
-L<http://www.geocities.com/qpliu/nouse/nouse.html>
+L<http://code.iamcal.com/docs/nouse.html>
 
 =cut

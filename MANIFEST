@@ -1,6 +1,6 @@
 Changes
 Makefile.PL
 MANIFEST
-Nouse.pm
 README
+lib/Inline/Nouse.pm
 t/01_basic.t
