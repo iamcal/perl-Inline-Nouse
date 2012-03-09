@@ -3,4 +3,5 @@ Makefile.PL
 MANIFEST
 README
 lib/Inline/Nouse.pm
+t/00_inline.t
 t/01_basic.t
